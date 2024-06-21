@@ -1,0 +1,46 @@
+.s1
+{
+    text-align: center;
+    background-color: rgb(19, 174, 32);
+
+}
+.cour
+{
+    cursor: pointer;
+}
+.cour>ul>li{
+    gap: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+.course {
+    display: flex;
+  }
+.course-component {
+    width: 300px;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    flex: 1;
+    margin: 8px 10px;
+    text-align: center; 
+}
+
+.course-component img {
+    max-width:100%;
+    height: auto;
+}
+
+.course-component h2 {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+.mrq
+{
+   
+    background: scroll;
+    background-color:rgb(17, 176, 181);
+
+}
+
+
